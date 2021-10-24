@@ -1,4 +1,4 @@
-﻿
+
 #include <iostream>
 #include <string>
 
@@ -38,8 +38,6 @@ public:
         std::cout << "Amount of students: " << Count << std::endl;
     }
 };
-
-
 int main()
 {
     Student Igor("Igar", 21, true, 73, 2019);
