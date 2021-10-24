@@ -1,4 +1,4 @@
-﻿
+
 #include <iostream>
 
 //task2//
@@ -61,6 +61,7 @@ int main()
 
 	return 0;
 };
+
 /*//Task3//
 Реализация игры "Blackjack" потребует следующие обьекты:
 
