@@ -18,7 +18,7 @@ ostream& operator<<(ostream& os, const Card& a_Card) {
     return os;
 }
 // ///BlackJack/////
-// ///task3,4 are below///
+// ///task3,4 are below//////
 class Card {
 public:
     enum rank { ACE = 1, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING };
